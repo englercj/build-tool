@@ -1,0 +1,23 @@
+{
+  "name": "@pixi/build-tool",
+  "version": "1.0.0",
+  "description": "Build tool for pixi.js",
+  "bin": {
+    "pbt": "cli.js"
+  },
+  "author": "Chad Engler <chad@pantherdev.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0",
+    "github-url-to-object": "^2.1.0",
+    "mkdirp": "^0.5.1",
+    "node-env-file": "^0.1.8",
+    "npm-keyword": "^4.2.0",
+    "package-json": "^2.2.1",
+    "request": "^2.67.0",
+    "restify": "^4.0.3"
+  },
+  "engines": {
+    "node": "^4.2.2"
+  }
+}

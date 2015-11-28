@@ -1,0 +1,334 @@
+[
+    {
+        "name": "generator-pixi-babel",
+        "author": {
+            "name": "Matt Styles",
+            "email": "matt@veryfizzyjelly.com",
+            "url": "https://github.com/mattstyles"
+        },
+        "description": "Yeoman generator for a pixi.js driven app",
+        "version": "1.0.0",
+        "repo": "mattstyles/generator-pixi-babel",
+        "website": "https://github.com/mattstyles/generator-pixi-babel",
+        "updated": "2015-09-30T09:25:58.338Z",
+        "downloads": 11
+    },
+    {
+        "name": "generator-pixi-plugin",
+        "author": {
+            "name": "Chad Engler",
+            "email": "chad@pantherdev.com"
+        },
+        "description": "A Yeoman generator to generate a pixi plugin using browserify.",
+        "version": "1.0.1",
+        "repo": "pixijs/generator-pixi-plugin",
+        "website": "https://github.com/pixijs/generator-pixi-plugin",
+        "updated": "2015-05-18T14:19:24.199Z",
+        "downloads": 21
+    },
+    {
+        "name": "generator-pixijs",
+        "author": {
+            "name": "Gareth Parker",
+            "email": "gareth.parker@mindcandy.com",
+            "url": "https://github.com/garfty"
+        },
+        "description": "Yeoman Pixi.js generator",
+        "version": "1.0.1",
+        "repo": "mindcandy/pixijs-generator",
+        "website": "https://github.com/mindcandy/pixijs-generator",
+        "updated": "2015-07-22T16:29:40.922Z",
+        "downloads": 34
+    },
+    {
+        "name": "hex-pixi-js",
+        "author": {
+            "name": "Mark Harmon"
+        },
+        "description": "A free hex grid game library for pixijs",
+        "version": "0.4.2",
+        "repo": "DavidBM/HexPixiJs",
+        "website": "https://github.com/DavidBM/HexPixiJs",
+        "updated": "2015-09-29T08:42:54.477Z",
+        "downloads": 10
+    },
+    {
+        "name": "ngraph.pixi",
+        "author": {
+            "name": "Andrei Kashcha"
+        },
+        "description": "PIXI.js graph renderer",
+        "version": "0.0.3",
+        "repo": "anvaka/ngraph.pixi",
+        "website": "https://github.com/anvaka/ngraph.pixi#readme",
+        "updated": "2015-09-19T03:01:54.997Z",
+        "downloads": 37
+    },
+    {
+        "name": "nylira-2d-boilerplate",
+        "author": {
+            "name": "Peng Zhong"
+        },
+        "description": "Boilerplate for a 2D web game, using PIXI.js",
+        "version": "0.3.0",
+        "repo": "nylira/nylira-2d-boilerplate",
+        "website": "https://github.com/nylira/nylira-2d-boilerplate",
+        "updated": "2015-04-01T10:54:12.733Z",
+        "downloads": 64
+    },
+    {
+        "name": "pixi",
+        "author": {
+            "name": "Dr. Kibitz",
+            "email": "info@drkibitz.com"
+        },
+        "description": "Super fast 2D rendering engine for browserify, that uses WebGL with a context 2d fallback.",
+        "version": "0.3.1",
+        "repo": "drkibitz/node-pixi",
+        "website": "http://drkibitz.github.io/node-pixi/",
+        "updated": "2015-08-24T16:00:54.565Z",
+        "downloads": 292
+    },
+    {
+        "name": "pixi-camera",
+        "author": {
+            "name": "Stuart Lee",
+            "email": "updownleftright@gmail.com"
+        },
+        "description": "## installation",
+        "version": "0.0.1",
+        "repo": "beeglebug/pixi-camera",
+        "website": "https://github.com/beeglebug/pixi-camera#readme",
+        "updated": "2015-05-15T13:02:08.486Z",
+        "downloads": 16
+    },
+    {
+        "name": "pixi-ears",
+        "author": {
+            "name": "Mikko Haapoja",
+            "email": "me@mikkoh.com"
+        },
+        "description": "A templating library for PIXI",
+        "version": "1.0.0",
+        "repo": "MikkoH/pixi-ears",
+        "website": "https://github.com/MikkoH/pixi-ears",
+        "updated": "2014-12-10T19:44:16.782Z",
+        "downloads": 13
+    },
+    {
+        "name": "pixi-examples",
+        "description": "Examples for using pixi.js v3+",
+        "version": "1.0.0",
+        "repo": "pixijs/examples",
+        "website": "https://github.com/pixijs/examples",
+        "updated": "2015-04-23T15:05:09.448Z",
+        "downloads": 9
+    },
+    {
+        "name": "pixi-extra-filters",
+        "author": {
+            "name": "Chad Engler",
+            "email": "chad@pantherdev.com"
+        },
+        "description": "Extra pixi filters not included by default with the main library",
+        "version": "1.0.1",
+        "repo": "pixijs/pixi-extra-filters",
+        "website": "https://github.com/pixijs/pixi-extra-filters",
+        "updated": "2015-10-27T15:19:12.983Z",
+        "downloads": 47
+    },
+    {
+        "name": "pixi-extra-filters-waiting-for-publication",
+        "author": {
+            "name": "Mat Groves"
+        },
+        "description": "Spine implementation for pixi v3",
+        "version": "1.0.0",
+        "repo": "pixijs/pixi-extra-filters",
+        "website": "https://github.com/pixijs/pixi-extra-filters",
+        "updated": "2015-10-26T19:42:24.114Z",
+        "downloads": 16
+    },
+    {
+        "name": "pixi-flash",
+        "author": {
+            "name": "CloudKid",
+            "email": "tools@cloudkid.com"
+        },
+        "description": "A library for bridging CreateJS animations from Flash for use in Pixi.js. Publish Flash content like you normally would for CreateJS (with an HTML5 Canvas document), but export for Pixi.js instead. While there are some [known issues](https://github.com/Cl",
+        "version": "0.2.8",
+        "repo": "CloudKidStudio/PixiFlash",
+        "website": "https://github.com/CloudKidStudio/PixiFlash#readme",
+        "updated": "2015-11-24T17:51:05.213Z",
+        "downloads": 144
+    },
+    {
+        "name": "pixi-movieclip-speed",
+        "author": {
+            "name": "Vadim Namniak",
+            "email": "vadim@jam3.com",
+            "url": "https://github.com/namniak"
+        },
+        "description": "Dynamically adjust PIXI movieclip(s) animation speed based on current browser's fps rate.",
+        "version": "0.0.1",
+        "repo": "Jam3/pixi-movieclip-speed",
+        "website": "https://github.com/Jam3/pixi-movieclip-speed",
+        "updated": "2015-10-26T01:45:26.950Z",
+        "downloads": 16
+    },
+    {
+        "name": "pixi-multistyle-text",
+        "author": {
+            "name": "Tommy Leunen",
+            "email": "tommy.leunen@gmail.com",
+            "url": "http://tommyleunen.com/"
+        },
+        "description": "Multi-Style Text for pixi.js",
+        "version": "0.2.2",
+        "repo": "tleunen/pixi-multistyle-text",
+        "website": "https://github.com/tleunen/pixi-multistyle-text",
+        "updated": "2015-04-16T14:30:27.948Z",
+        "downloads": 39
+    },
+    {
+        "name": "pixi-noise-filter",
+        "author": {
+            "name": "Richard Janicek",
+            "email": "r@janicek.co",
+            "url": "http://www.janicek.co"
+        },
+        "description": "A noise filter for pixi.js",
+        "version": "0.0.3",
+        "repo": "rjanicek/pixi-noise-filter",
+        "website": "https://github.com/rjanicek/pixi-noise-filter",
+        "updated": "2014-09-25T21:00:27.472Z",
+        "downloads": 17
+    },
+    {
+        "name": "pixi-particles",
+        "author": {
+            "name": "CloudKid",
+            "email": "tools@cloudkid.com"
+        },
+        "description": "Pixi Particles [![Build Status](https://travis-ci.org/CloudKidStudio/PixiParticles.svg)](https://travis-ci.org/CloudKidStudio/PixiParticles) [![Dependency Status](https://david-dm.org/CloudKidStudio/PixiParticles.svg?style=flat)](https://david-dm.org/Clou",
+        "version": "1.5.1",
+        "repo": "CloudKidStudio/PixiParticles",
+        "website": "https://github.com/CloudKidStudio/PixiParticles#readme",
+        "updated": "2015-09-29T16:39:21.183Z",
+        "downloads": 34
+    },
+    {
+        "name": "pixi-spine",
+        "author": {
+            "name": "Mat Groves"
+        },
+        "description": "Spine implementation for pixi v3",
+        "version": "1.0.7",
+        "repo": "pixijs/pixi-spine",
+        "website": "https://github.com/pixijs/pixi-spine",
+        "updated": "2015-11-26T22:47:10.062Z",
+        "downloads": 146
+    },
+    {
+        "name": "pixi-tiled",
+        "author": {
+            "name": "Stuart Lee"
+        },
+        "description": "A Pixi.js plugin to import maps from the Tiled map editor.",
+        "version": "1.1.2",
+        "repo": "beeglebug/pixi-tiled",
+        "website": "https://github.com/beeglebug/pixi-tiled#readme",
+        "updated": "2015-05-14T21:27:32.355Z",
+        "downloads": 78
+    },
+    {
+        "name": "pixi-tiledmap",
+        "author": {
+            "name": "Hagen Sommerkorn"
+        },
+        "description": "Pixi.js Tiled map editor plugin",
+        "version": "1.7.2",
+        "repo": "riebel/pixi-tiledmap",
+        "website": "https://github.com/riebel/pixi-tiledmap#readme",
+        "updated": "2015-11-16T00:12:41.641Z",
+        "downloads": 513
+    },
+    {
+        "name": "pixi-tiling-movie-clip",
+        "author": {
+            "name": "Max Verigin",
+            "email": "maxverigin@gmail.com",
+            "url": "http://griever989.github.io/"
+        },
+        "description": "A combination of MovieClip and TilingSprite from pixi.js.",
+        "version": "0.1.0",
+        "repo": "griever989/pixi-TilingMovieClip",
+        "website": "https://github.com/griever989/pixi-TilingMovieClip#readme",
+        "updated": "2015-07-29T03:57:33.221Z",
+        "downloads": 10
+    },
+    {
+        "name": "react-pixi",
+        "author": {
+            "name": "Gary Haussmann",
+            "email": "gjhaussmann@gmail.com"
+        },
+        "description": "Construct PIXI.js scenes using React",
+        "version": "0.7.4",
+        "repo": "Izzimach/react-pixi",
+        "website": "https://github.com/Izzimach/react-pixi",
+        "updated": "2015-11-19T18:36:28.187Z",
+        "downloads": 377
+    },
+    {
+        "name": "resonate-grid",
+        "author": {
+            "name": "silvio paganini | fluuu.id | @silviopaganini"
+        },
+        "description": "Resonate 2015 animating lines",
+        "version": "1.1.0",
+        "repo": "silviopaganini/resonate-grid",
+        "website": "https://github.com/silviopaganini/resonate-grid",
+        "updated": "2015-04-07T20:52:54.273Z",
+        "downloads": 77
+    },
+    {
+        "name": "slush-phaser-game",
+        "author": {
+            "name": "Mickaël Mendel",
+            "email": "mickael@delmen.fr"
+        },
+        "description": "A slush generator for easily starting to make HTML5 games with Phaser.",
+        "version": "0.2.0",
+        "repo": "Mickawesomesque/slush-phaser-game",
+        "website": "https://github.com/Mickawesomesque/slush-phaser-game",
+        "updated": "2014-08-26T12:58:18.973Z",
+        "downloads": 86
+    },
+    {
+        "name": "slush-phaser-penguin",
+        "author": {
+            "name": "Isaac Zepeda",
+            "email": "isaac@informalpenguins.com"
+        },
+        "description": "A slush generator starting games with Phaser.",
+        "version": "0.1.0",
+        "repo": "InformalPenguins/slush-phaser-penguin",
+        "website": "https://github.com/InformalPenguins/slush-phaser-penguin",
+        "updated": "2015-07-21T00:04:07.386Z",
+        "downloads": 10
+    },
+    {
+        "name": "slush-phaser-webpack",
+        "author": {
+            "name": "Jesse Harlin",
+            "email": "harlinjesse@gmail.com"
+        },
+        "description": "A slush generator for creating games that uses webpack and commonjs compliant modules. Gulp for build system. Tools to assist in development.",
+        "version": "0.2.2",
+        "repo": "the-simian/slush-phaser-webpack",
+        "website": "https://github.com/the-simian/slush-phaser-webpack",
+        "updated": "2015-05-22T04:26:24.688Z",
+        "downloads": 95
+    }
+]
