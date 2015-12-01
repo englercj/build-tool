@@ -30,3 +30,4 @@ examples_old/
 
 # Application ignores
 .env
+.cache

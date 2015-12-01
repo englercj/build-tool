@@ -8,11 +8,12 @@ require('https').globalAgent.maxSockets = 100;
 
 const path          = require('path');
 const env           = require('node-env-file');
+const pkg           = require('../package.json');
 const PluginCache   = require('../lib/plugin-cache');
 
 env(path.join(__dirname, '..', '.env'));
 
-// Create a cache and update
-let pluginCache = new PluginCache('pixi');
+// Create cache and update
+let cache = new PluginCache(pkg.toolConfig.keyword);
 
-pluginCache.update();
+cache.update();
